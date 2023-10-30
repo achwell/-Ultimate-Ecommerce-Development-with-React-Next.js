@@ -1,7 +1,7 @@
 "use client";
 import './globals.css'
 import "bootstrap-material-design/dist/css/bootstrap-material-design.css"
-import TopNav from "@/app/components/TopNav";
+import TopNav from "@/app/components/nav/TopNav";
 import {Toaster} from "react-hot-toast";
 import {SessionProvider} from "next-auth/react";
 
